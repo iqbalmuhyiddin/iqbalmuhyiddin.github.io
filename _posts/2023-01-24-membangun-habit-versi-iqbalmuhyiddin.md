@@ -2,7 +2,7 @@
 layout: post
 title: "Membangun Habit versi iqbalmuhyiddin"
 date: 2023-01-24 15:18:00 +0700
-categories: klubmenulisefishery habit productivity
+categories: klubmenulisefishery
 ---
 
 Membangun habit ini sepertinya topik yang menarik untuk dibahas di awal tahun ya. Karena biasanya tiap awal tahun membuat resolusi. Dan sepertinya dengan mempunyai habit yang tepat bisa membuat resolsui lebih lebih mudah untuk tercapai.
