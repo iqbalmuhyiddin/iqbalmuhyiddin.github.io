@@ -2,7 +2,7 @@
 layout: post
 title: "Kang Yadi: Kuncinya Itu di pikiran"
 date: 2023-01-29 07:55:18 +0700
-tags: klubmenulisefishery
+categories: klubmenulisefishery life
 ---
 
 > Tulisan ini dibuat dalam rangka mengikuti program #klubmenulis di [eFishery](https://efishery.com) yang ada berbagai tema di tiap pekannya.

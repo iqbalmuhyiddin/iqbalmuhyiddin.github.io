@@ -2,7 +2,7 @@
 layout: post
 title: "Risking More, Should I?"
 date: 2023-02-05 22:03:07 +0700
-tag: klubmenulisefishery
+categories: klubmenulisefishery life
 ---
 
 Salah satu target saya di tahun ini adalah masuk ke sebuah zona yang sudah lama sekali tidak pernah saya masuki, bisnis. Salah satu alasan saya memutuskan ini saya jadikan target adalah untuk mencoba pintu rezeki lain yang mudah-mudahan bisa jadi pintu rezeki juga bagi orang lain.
